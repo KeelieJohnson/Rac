@@ -1,0 +1,7 @@
+h5{
+    color:gray;
+}
+p::after{ 
+    content:"*";
+    color:red
+}
